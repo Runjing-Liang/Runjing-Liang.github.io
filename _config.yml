@@ -27,7 +27,7 @@ author:
   name             : "Runjing Liang"
   pronouns         : # example: "she/her"  
   bio              : "Per aspera ad astra"
-  location         : "Earth"
+  location         : "Shang hai, China"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "liangrunjing@outlook.com" 
@@ -54,7 +54,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
